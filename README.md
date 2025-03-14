@@ -1,4 +1,7 @@
 ## Hello World 🌍
+I'm a passionate 💻 engineer and part time 🎨 artist.
+
+Always willing to learn new things. Go 76ers🏀!
 
 <!--
 **MonsterMaCK3/MonsterMaCK3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
