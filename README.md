@@ -13,10 +13,6 @@ I'm a passionate 💻 engineer and part time 🎨 artist.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
-
-
-
 ### 🏅Certifications:
 
 <a href="https://www.credly.com/earner/earned/badge/fdd42ce1-ee0b-4558-a242-55411fcab574">
@@ -39,8 +35,6 @@ I'm a passionate 💻 engineer and part time 🎨 artist.
     <img src="https://github.com/user-attachments/assets/b8ab0f8b-79f1-40ff-9f97-781042a03655" width="110" height="110" />
 </a>
 
-
-
 <a href="https://www.credly.com/earner/earned/badge/46c8c107-6ea5-46e3-9dd6-68a1dcde6800">
     <img src="https://github.com/user-attachments/assets/633346db-6ae7-4ffc-9f99-7b880a3cca5c" width="110" height="110" />
 </a>
@@ -54,7 +48,6 @@ I'm a passionate 💻 engineer and part time 🎨 artist.
 <a href="https://www.credly.com/earner/earned/badge/f7363fad-7ff1-4dbd-9959-b62e7d1b6b23">
     <img src="https://github.com/user-attachments/assets/80d6e531-117b-4812-b6f7-b381bd1b70c4" width="110" height="110" />
 </a>
-
 
 <a href="https://www.credly.com/earner/earned/badge/3a12b2fe-1f50-4553-b7a2-4461ee34e74b">
     <img src="https://github.com/user-attachments/assets/67908501-0b38-45c1-8abd-c3d056da5671" width="110" height="110" />
@@ -70,6 +63,14 @@ I'm a passionate 💻 engineer and part time 🎨 artist.
 <a href="https://www.credly.com/earner/earned/badge/9591abaf-dc2f-444d-9c8f-ffc6610be324">
     <img src="https://github.com/user-attachments/assets/97d988cf-987a-4370-bca6-a8fce70bfb10" width="110" height="110" />
 </a>
+
+### How to get in touch 📬
+
+
+
+
+![](https://komarev.com/ghpvc/?username=MarcusMackDev&style=plastic&label=Profile+views&base=170600)
+
 
 
 
