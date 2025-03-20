@@ -1,10 +1,17 @@
 ## Hi, I'm Marcus 🌍
 I'm a passionate 💻 engineer and part time 🎨 artist.
 
-Always willing to learn new things. Go 76ers🏀!
+### 👯 I’m looking to collaborate on ...
+- Coding projects
+- Learning new skills
 
+### My Technical Skills include:
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 
