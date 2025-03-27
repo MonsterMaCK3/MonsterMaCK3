@@ -53,7 +53,7 @@ I'm a passionate 💻 engineer and part time 🎨 artist.
     <img src="https://github.com/user-attachments/assets/67908501-0b38-45c1-8abd-c3d056da5671" width="110" height="110" />
 </a>
 <a href="https://www.credly.com/earner/earned/badge/0fc60796-1e64-4f2b-9ed2-b36feaf3e363">
-    <img src="https://github.com/user-attachments/assets/67908501-0b38-45c1-8abd-c3d056da5671" width="110" height="110" />
+    <img src="https://github.com/user-attachments/assets/357ba573-de0b-43cc-87cb-33aafffd0ae8" width="110" height="110" />
 </a>
 
 <a href="https://www.credly.com/earner/earned/badge/2795d3aa-10a4-4e3a-aa0c-d155d3c5ad78">
